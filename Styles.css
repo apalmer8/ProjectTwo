@@ -32,8 +32,16 @@ h1 {
 }
 */
 
-body {background-color: powderblue;
+/*body {background-color: powderblue;
+}*/
+
+.body2 {
+  background-color: #BFEFFF;
 }
+.body3 {
+  background-color: #970fff;
+}
+
 img {
   display: block;
   margin-left: auto;
