@@ -58,3 +58,70 @@ img {
     display:inline-block;
     padding:10px;
 }
+.nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.BoS { 
+	float:left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Satel { 
+	float:right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Krypt { 
+	float:left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Ocean { 
+	float:right;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.Robin { 
+	float:right;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Chick { 
+	float:left;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Fett { 
+	float:middle;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
+.Pizza { 
+	float:left;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.Monte { 
+	float:right;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
