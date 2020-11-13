@@ -11,6 +11,7 @@ h2 {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+  color: gold;
 }
 
 p, p2, .shadow, .library, .robotics {
@@ -20,11 +21,17 @@ p, p2, .shadow, .library, .robotics {
   width: 40%;
   font-family: serif;
 }
+.body1 {
+  background: rgb(2,0,36);
+  background: linear-gradient(317deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
 .body2 {
-  background-color: #8A2BE2;
+  background: rgb(2,0,36);
+  background: linear-gradient(317deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 .body3 {
-  background-color: #970fff;
+  background: rgb(2,0,36);
+  background: linear-gradient(317deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 img {
@@ -41,6 +48,8 @@ img {
     margin:0;
     padding:0;
     text-align:center;
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(242,201,9,1) 35%, rgba(0,212,255,1) 100%);
 }
 .nav li{
     display:inline;
